@@ -2,7 +2,7 @@
 Bionic font for people with ADHD.
 
 + Download the file to an appropriate place on your computer
-<code>git clone xxxxxx </code>
+<code>git clone https://github.com/TheBigMahooney/BionicFont.git </code>
 
 + Navigate to the file
 <code>cd {file path}</code>
